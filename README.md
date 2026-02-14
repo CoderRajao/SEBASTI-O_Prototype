@@ -12,7 +12,9 @@ Copy and paste the code and run this line
 in the terminal of your env :
 
 >pip install deepface opencv-python ollama tf-keras
+
 Then:
+
 >ollama pull gemma3:12b
 
 And also dont forget that 
