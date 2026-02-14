@@ -8,7 +8,7 @@ First install ollama by pasting this into Powershell:
 
 >irm https://ollama.com/install.ps1 | iex
 
-Copy and paste the code and run this line 
+Copy and paste the code in main, and run this line 
 in the terminal of your env :
 
 >pip install deepface opencv-python ollama tf-keras
