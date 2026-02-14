@@ -1,6 +1,9 @@
 # SEBASTIÃO_Prototype
 A chatbot that can detect your feelings with computer vision software, and it can recognize if it’s you or somebody else.
 
+Youtube show of: 
+https://www.youtube.com/watch?v=5zOTu5MABMs
+
 /////////////////////////////////////////////////////
 
 How to get it running:
